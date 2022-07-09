@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="100%" src="solana-philippines-banner.png" alt="SolanaPH Logo">
+	<img width="100%" src="./solana-philippines-banner.png" alt="SolanaPH Logo">
 	<h2>Solana Philipines</h2>
 	<p>
 		<strong>Built by Filipinos, for everyone.</strong>
