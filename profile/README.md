@@ -4,6 +4,10 @@
 	<p>Built by Filipinos, for everyone.</p>
 </div>
 
+# About
+
+Solana Philippines is the **official Github organization** for the Solana Philippines community.
+
 # Vision
 
 A decentralized future where Filipinos are empowered to build and innovate on tools, decentralized applications, or scripts that will help everyone build with Solana.
