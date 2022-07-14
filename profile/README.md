@@ -14,6 +14,8 @@ The mission is to open a space of respect and positive collaboration to facilita
 
 # Community Projects
 
+> **Important Note**: The projects below are community-built tools, decentralized applications, and scripts that are not official tools from Solana, hence use at your own discretion. **Solana Philippines is not liable for any usage that results to loss or damage to any party**.
+
 | Name | Description | Project Lead |
 |---|---|---|
 | [tocino](https://github.com/solana-philippines/tocino) | Lowering the cost of deploying a Solana NFT collection | [@kquirapas](https://github.com/kquirapas) |
