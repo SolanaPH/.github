@@ -1,10 +1,7 @@
-![Solana Philippines Banner](./solana-philippines-banner.png)
-
 <div align="center">
+	<img width="200px" src="solana-philippines.jpg" alt="Solana Philippines Logo">
 	<h2>Solana Philippines</h2>
-	<p>
-		<strong>Built by Filipinos, for everyone.</strong>
-	</p>
+	<p>Built by Filipinos, for everyone.</p>
 </div>
 
 # Vision

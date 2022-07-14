@@ -1,3 +1,3 @@
-# How to Contribute
+# Contributing to Solana Philippines
 
 WIP
